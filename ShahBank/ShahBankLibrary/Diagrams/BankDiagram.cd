@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShahBankLibrary.Objects.Account" Collapsed="true">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAEQAAAAAIAAAAAAAAAACI=</HashCode>
+      <FileName>Objects\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShahBankLibrary.Objects.Current" Collapsed="true">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Current.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShahBankLibrary.Objects.Offshore" Collapsed="true">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Offshore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShahBankLibrary.Objects.Savings" Collapsed="true">
+    <Position X="15.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Savings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\bin\Debug\net8.0\ShahBankLibrary.deps.json
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\bin\Debug\net8.0\ShahBankLibrary.dll
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\bin\Debug\net8.0\ShahBankLibrary.pdb
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\ShahBankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\ShahBankLibrary.AssemblyInfoInputs.cache
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\ShahBankLibrary.AssemblyInfo.cs
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\ShahBankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\ShahBankLibrary.dll
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\refint\ShahBankLibrary.dll
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\ShahBankLibrary.pdb
+C:\Users\Delegate\source\repos\ShahBank\ShahBankLibrary\obj\Debug\net8.0\ref\ShahBankLibrary.dll

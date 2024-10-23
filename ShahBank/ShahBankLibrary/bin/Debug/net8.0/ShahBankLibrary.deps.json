@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShahBankLibrary/1.0.0": {
+        "runtime": {
+          "ShahBankLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShahBankLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
